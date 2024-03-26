@@ -20,6 +20,6 @@ public class NextActivity extends AppCompatActivity {
         TextView tv_texto = findViewById(R.id.tv_texto); //localiza a textview
         tv_texto.setText(textoDigitado); //coloca o texto obtido na tela atraves do textview
     }
-
+    //comentário qualquer
     ;
 }
